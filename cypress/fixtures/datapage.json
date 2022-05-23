@@ -1,9 +1,12 @@
 {
-    "firstName": "Jeff",
-    "lastName": "Jefferson",
-    "email": "randommail@gmail.com",
-    "number": "88143443",
-    "address": "Random street 69",
+    "firstName": "Ray",
+    "lastName": "Daniels",
+    "email": "coolmail69@gmail.com",
+    "number": "20567844",
+    "address": "Glass street 69",
+    "year": "1930",
+    "month": "February",
+    "hobbies": "Music",
     "subject": "Economics",
     "state": "NCR",
     "city": "Delhi"
