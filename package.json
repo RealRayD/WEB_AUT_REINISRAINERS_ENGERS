@@ -1,0 +1,22 @@
+{
+  "name": "web_aut_reinisrainers_engers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealRayD/WEB_AUT_REINISRAINERS_ENGERS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealRayD/WEB_AUT_REINISRAINERS_ENGERS/issues"
+  },
+  "homepage": "https://github.com/RealRayD/WEB_AUT_REINISRAINERS_ENGERS#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
